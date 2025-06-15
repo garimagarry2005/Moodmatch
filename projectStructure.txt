@@ -1,0 +1,8 @@
+moodmatch/
+├── backend/
+│   └── index.js
+├── frontend/
+│   ├── src/
+│   └── public/
+├── .gitignore
+└── README.md
