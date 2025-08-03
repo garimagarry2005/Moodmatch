@@ -1,0 +1,16 @@
+.mood-history-page {
+  padding: 2rem;
+  color: white;
+}
+
+.mood-list {
+  list-style: none;
+  padding: 0;
+}
+
+.mood-card {
+  background: #1c1c1c;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}

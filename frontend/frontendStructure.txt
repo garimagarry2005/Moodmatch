@@ -1,0 +1,12 @@
+src/
+├── components/
+│   ├── MoodInput.jsx
+│   ├── Recommendations.jsx
+│   ├── MoodRoom.jsx
+│   └── Navbar.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Room.jsx
+│   └── History.jsx
+├── App.js
+├── index.js
